@@ -1,5 +1,5 @@
 ### Jonas Everaert
-- Currently working on 't Voetje, an app for [KSA Noordzeegouw](https://www.ksa.be/noordzeegouw)
+- Currently working on 't Voetje, an app for [KSA Noordzeegouw](https://www.ksa.be/werkkringen/ksa-noordzeegouw)
   - Related to that I have the [Voetje Encoding Engine](https://github.com/Jomy10/voetje_encoding_engine) project, for which I'm looking for contributors.
 - Currently learning [Rust](https://github.com/rust-lang/rust)
 
