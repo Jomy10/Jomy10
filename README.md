@@ -3,6 +3,8 @@
   - Related to that I have the [Voetje Encoding Engine](https://github.com/Jomy10/voetje_encoding_engine) project, for which I'm looking for contributors.
 - Currently learning [Rust](https://github.com/rust-lang/rust)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Jomy10" frameborder="0"></iframe>
+
 <!--
 **Jomy10/Jomy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
