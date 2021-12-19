@@ -3,7 +3,6 @@
   - Related to that I have the [Voetje Encoding Engine](https://github.com/Jomy10/voetje_encoding_engine) project, for which I'm looking for contributors.
 - Currently learning [Rust](https://github.com/rust-lang/rust)
 
-<circle class="pie" cx="250" cy="210" r="195" fill="#fff"></circle>
 <!--TODO: 
 Have a server running a function every week or so.
 It takes a screenshot of the following webpage and updates the image on the server. -> Great opportunity to learn server side Rust or Swift
