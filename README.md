@@ -47,6 +47,7 @@ https://shields.io/
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Svelte-dc468e?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-dc468e?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vapor-dc468e?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 <p align="center">
