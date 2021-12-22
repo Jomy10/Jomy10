@@ -1,4 +1,26 @@
 ### Jonas Everaert
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/everaert-jonas/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jonas_everaert/">
+    <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <!--a href="">
+    <img src="https://img.shields.io/badge/itchio-%230077B5.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />        
+  </a>&nbsp;&nbsp;-->
+  <!--a href="">
+    <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
+  </a>&nbsp;&nbsp;-->
+  <!--a href="">
+    <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
+  </a>&nbsp;&nbsp;-->
+  
+  
+</p>
+
 - Currently working on 't Voetje, an app for [KSA Noordzeegouw](https://www.ksa.be/werkkringen/ksa-noordzeegouw)
   - Related to that I have the [Voetje Encoding Engine](https://github.com/Jomy10/voetje_encoding_engine) project, for which I'm looking for contributors.
 - Currently learning [Rust](https://github.com/rust-lang/rust)
