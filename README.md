@@ -53,7 +53,7 @@ https://shields.io/
 <p align="center">
   <img src="https://img.shields.io/badge/-Android Studio-dc468e?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-XCode-dc468e?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Visual Studio Code-dc468e?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-VS Code-dc468e?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-dc468e?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
   
