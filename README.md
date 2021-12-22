@@ -42,8 +42,8 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-Swift-dc468e?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Java-dc468e?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Javascript-dc468e?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-dc468e?logo=html&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-dc468e?logo=css&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-HTML-dc468e?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-dc468e?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Svelte-dc468e?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
