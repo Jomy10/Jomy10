@@ -8,7 +8,7 @@ https://shields.io/
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jomy10&show_icons=true&count_private=true&theme=radical" height="150"/a> 
   <!--Can edit the &langs_count=number to show more languages-->
-  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?jomy10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=radical&lang_count=10" height="150"/a>
+  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?jomy10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=radical height="150"/a>
 </p>
 
 <p align='center'>
