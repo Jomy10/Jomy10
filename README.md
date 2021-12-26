@@ -14,13 +14,13 @@ https://shields.io/
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/everaert-jonas/">
-    <img src="https://img.shields.io/badge/linkedin-dc468e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-70A5FB.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jonas_everaert/">
-    <img src="https://img.shields.io/badge/instagram-dc468e.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-70A5FB.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://jonaseveraert.be">
-    <img src="https://img.shields.io/badge/website-dc468e.svg?&style=for-the-badge&logo=website&logoColor=white" />        
+    <img src="https://img.shields.io/badge/website-70A5FB.svg?&style=for-the-badge&logo=website&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!--a href="">
     <img src="https://img.shields.io/badge/itchio-%230077B5.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />        
@@ -38,23 +38,23 @@ https://shields.io/
 - Currently learning [Rust](https://github.com/rust-lang/rust)
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/-Rust-dc468e?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Swift-dc468e?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Java-dc468e?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Javascript-dc468e?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-dc468e?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-dc468e?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Rust-70A5FB?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Swift-70A5FB?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Java-70A5FB?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Javascript-70A5FB?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-70A5FB?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-70A5FB?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Svelte-dc468e?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Firebase-dc468e?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Vapor-dc468e?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Svelte-70A5FB?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-70A5FB?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vapor-70A5FB?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android Studio-dc468e?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-XCode-dc468e?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-VS Code-dc468e?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-dc468e?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Android Studio-70A5FB?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-XCode-70A5FB?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-VS Code-70A5FB?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-IntelliJ IDEA-70A5FB?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
   
 <!--TODO: 
