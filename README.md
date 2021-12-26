@@ -3,6 +3,8 @@ https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats
 https://shields.io/
 -->
 
+<!--Main color: 5A8CFF-->
+
 <h3 align="center">Jonas Everaert</h3>
 
 <p align='center'>
@@ -32,10 +34,16 @@ https://shields.io/
     <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
   </a>&nbsp;&nbsp;-->
 </p>
-  
-- Currently working on 't Voetje, an app for [KSA Noordzeegouw](https://www.ksa.be/werkkringen/ksa-noordzeegouw)
-  - Related to that I have the [Voetje Encoding Engine](https://github.com/Jomy10/voetje_encoding_engine) project, for which I'm looking for contributors.
-- Currently learning [Rust](https://github.com/rust-lang/rust)
+    
+<p align='center'>
+  Currently woking on 't Voetje, an app for <a href="https://www.ksa.be/werkkringen/ksa-noordzeegouw" style="color: #5A8CFF;">KSA Noordzeegouw</a>.
+</p>
+<p align='center'>
+  The <a href="https://github.com/Jomy10/voetje_encoding_engine" style="color: #5A8CFF;">Voetje Encoding Engine</a> project is used in this app.
+</p>
+<p align='center'>
+Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A8CFF;">Rust</a>.
+</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/-Rust-5A8CFF?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
