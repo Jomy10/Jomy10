@@ -14,13 +14,13 @@ https://shields.io/
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/everaert-jonas/">
-    <img src="https://img.shields.io/badge/linkedin-6496FF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-5A8CFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jonas_everaert/">
-    <img src="https://img.shields.io/badge/instagram-6496FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-5A8CFF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://jonaseveraert.be">
-    <img src="https://img.shields.io/badge/website-6496FF.svg?&style=for-the-badge&logo=website&logoColor=white" />        
+    <img src="https://img.shields.io/badge/website-5A8CFF.svg?&style=for-the-badge&logo=website&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!--a href="">
     <img src="https://img.shields.io/badge/itchio-%230077B5.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />        
