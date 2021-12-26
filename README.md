@@ -38,23 +38,23 @@ https://shields.io/
 - Currently learning [Rust](https://github.com/rust-lang/rust)
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/-Rust-70A5FB?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Swift-70A5FB?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Java-70A5FB?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Javascript-70A5FB?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-70A5FB?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-70A5FB?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Rust-5A8CFF?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Swift-5A8CFF?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Java-5A8CFF?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Javascript-5A8CFF?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-5A8CFF?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-5A8CFF?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Svelte-70A5FB?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Firebase-70A5FB?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Vapor-70A5FB?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Svelte-5A8CFF?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-5A8CFF?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vapor-5A8CFF?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android Studio-70A5FB?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-XCode-70A5FB?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-VS Code-70A5FB?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-70A5FB?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Android Studio-5A8CFF?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-XCode-5A8CFF?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-VS Code-5A8CFF?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-IntelliJ IDEA-5A8CFF?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
   
 <!--TODO: 
