@@ -48,6 +48,7 @@ https://shields.io/
 Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A8CFF;">Rust</a>.
 </p>
 
+<!--Programming languages-->
 <p align='center'>
   <img src="https://img.shields.io/badge/-Rust-5A8CFF?logo=rust&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Swift-5A8CFF?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
@@ -56,28 +57,12 @@ Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A
   <img src="https://img.shields.io/badge/-HTML-5A8CFF?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-5A8CFF?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>
+<!--Frameworks-->
 <p align="center">
   <img src="https://img.shields.io/badge/-Svelte-5A8CFF?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-5A8CFF?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vapor-5A8CFF?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Android Studio-5A8CFF?logo=Android%20Studio&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-XCode-5A8CFF?logo=xcode&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-VS Code-5A8CFF?logo=visual%20studio%20code&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-5A8CFF?logo=intellij%20idea&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
-</p>  
-  
-<!--TODO: 
-Have a server running a function every week or so.
-It takes a screenshot of the following webpage and updates the image on the server. -> Great opportunity to learn server side Rust or Swift
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Jomy10" frameborder="0"></iframe>
--> This link https://ionicabizau.github.io/github-profile-languages/api.html?Jomy10
-(get it from here: http://ionicabizau.github.io/github-profile-languages/?user=Jomy10
-repository: https://github.com/IonicaBizau/github-profile-languages
-
-Idea from: https://stackoverflow.com/questions/48402823/embed-openstreetmap-iframe-in-github-markdown
---> 
 
 <!--
 **Jomy10/Jomy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
