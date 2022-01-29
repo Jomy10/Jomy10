@@ -37,15 +37,9 @@ https://shields.io/
     <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
   </a>&nbsp;&nbsp;-->
 </p>
-    
+
 <p align='center'>
-  Currently woking on 't Voetje, an app for <a href="https://www.ksa.be/werkkringen/ksa-noordzeegouw" style="color: #5A8CFF;">KSA Noordzeegouw</a>.
-</p>
-<p align='center'>
-  The <a href="https://github.com/Jomy10/voetje_encoding_engine" style="color: #5A8CFF;">Voetje Encoding Engine</a> project is used in this app.
-</p>
-<p align='center'>
-Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A8CFF;">Rust</a>.
+  Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A8CFF;">Rust</a> and <a href="https://github.com/ruby/ruby" style="color: #5A8CFF;">Ruby</a>.
 </p>
 
 <!--Programming languages-->
