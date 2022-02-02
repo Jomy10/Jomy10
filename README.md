@@ -57,7 +57,8 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-Svelte-5A8CFF?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-5A8CFF?logo=firebase&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vapor-5A8CFF?logo=vapor&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-5A8CFF?logo=docker&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/-Docker-5A8CFF?logo=docker&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Heroku-5A8CFF?logo=heroku&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 
 <!--
