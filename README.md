@@ -13,7 +13,7 @@ https://shields.io/
   Can edit the &langs_count=number to show more languages
   &hide=language1,language2 to hide languages
   -->
-  <a href="Statistics.md"><img src="https://github-readme-stats-jomy10.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website" height="150"/a>
+  <a href="Statistics.md"><img src="https://github-readme-stats-jomy10.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website&include_repo=semver" height="150"/a>
 </p>
 
 <p align='center'>
