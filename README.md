@@ -17,7 +17,6 @@ https://shields.io/
 </p>
 
 <p align='center'>
-
   <a href="https://www.linkedin.com/in/everaert-jonas/">
     <img src="https://img.shields.io/badge/linkedin-5A8CFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -27,20 +26,11 @@ https://shields.io/
   <a href="https://jonaseveraert.be">
     <img src="https://img.shields.io/badge/website-5A8CFF.svg?&style=for-the-badge&logo=website&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <!--a href="">
-    <img src="https://img.shields.io/badge/itchio-%230077B5.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />        
-  </a>&nbsp;&nbsp;-->
-  <!--a href="">
-    <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
-  </a>&nbsp;&nbsp;-->
-  <!--a href="">
-    <img src="https://img.shields.io/badge/Google_Play-%230077B5?style=for-the-badge&logo=google-play&logoColor=white" />        
-  </a>&nbsp;&nbsp;-->
 </p>
 
-<p align='center'>
+<!--p align='center'>
   Currently learning <a href="https://github.com/rust-lang/rust" style="color: #5A8CFF;">Rust</a> and <a href="https://github.com/ruby/ruby" style="color: #5A8CFF;">Ruby</a>.
-</p>
+</p-->
 
 <!--Programming languages-->
 <p align='center'>
@@ -52,6 +42,7 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-HTML-5A8CFF?logo=html5&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-5A8CFF?logo=css3&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>
+    
 <!--Frameworks-->
 <p align="center">
   <img src="https://img.shields.io/badge/-Svelte-5A8CFF?logo=svelte&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
