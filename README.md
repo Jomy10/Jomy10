@@ -38,6 +38,7 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-Swift-5A8CFF?logo=swift&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Go-5A8CFF?logo=go&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Ruby-5A8CFF?logo=ruby&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-5A8CFF?logo=c&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Java-5A8CFF?logo=java&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-JS/TS-5A8CFF?logo=javascript&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-WebAssembly-5A8CFF?logo=webassembly&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
