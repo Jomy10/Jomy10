@@ -7,14 +7,15 @@ https://shields.io/
 
 <h3 align="center">Jonas Everaert</h3>
 
-<p align='center'>
+<!-- TODO: fix -->
+<!--p align='center'>
   <a href="Statistics.md"><img src="https://github-readme-stats.vercel.app/api?username=jomy10&show_icons=true&count_private=true&theme=tokyonight" height="150"/a> 
   <!--
   Can edit the &langs_count=number to show more languages
   &hide=language1,language2 to hide languages
   -->
   <a href="Statistics.md"><img src="https://github-readme-stats-jomy10.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website&include_repo=semver" height="150"/a>
-</p>
+</p-->
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/everaert-jonas/">
