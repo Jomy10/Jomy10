@@ -18,7 +18,7 @@ https://shields.io/
   -->
 
   <a href="Statistics.md">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website&include_repo=semver" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomy10&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6" height="150"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ https://shields.io/
 </p>
 <p align="center">
   <a href="https://github.com/jomy10/RestaurantGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomy10&repo=RestaurantGame&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website&include_repo=semver" height="100"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomy10&repo=RestaurantGame&count_private=true&theme=tokyonight" height="100"/>
   </a>
 </p>
 
