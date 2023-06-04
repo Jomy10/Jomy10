@@ -64,6 +64,15 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-SolidJS-5A8CFF?logo=solid&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 
+<p align="center">
+  Currently working on:
+</p>
+<p align="center">
+  <a href="https://github.com/jomy10/RestaurantGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomy10&repo=RestaurantGame&layout=compact&count_private=true&theme=tokyonight&hide=Rich%20Text%20Format&langs_count=6&exclude_repo=website&include_repo=semver" height="100"/>
+  </a>
+</p>
+
 <!--
 **Jomy10/Jomy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
