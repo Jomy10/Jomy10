@@ -64,14 +64,14 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-SolidJS-5A8CFF?logo=solid&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 
-<p align="center">
+<!--p align="center">
   Currently working on:
 </p>
 <p align="center">
   <a href="https://github.com/jomy10/RestaurantGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jomy10&repo=RestaurantGame&count_private=true&theme=tokyonight" height="100"/>
   </a>
-</p>
+</p-->
 
 <!--
 **Jomy10/Jomy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
