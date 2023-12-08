@@ -26,9 +26,6 @@ https://shields.io/
   <a href="https://www.linkedin.com/in/everaert-jonas/">
     <img src="https://img.shields.io/badge/linkedin-5A8CFF.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jonas_everaert/">
-    <img src="https://img.shields.io/badge/instagram-5A8CFF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   <a href="https://jonaseveraert.be">
     <img src="https://img.shields.io/badge/website-5A8CFF.svg?&style=for-the-badge&logo=website&logoColor=white" />        
   </a>&nbsp;&nbsp;
