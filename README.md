@@ -58,8 +58,8 @@ https://shields.io/
   <img src="https://img.shields.io/badge/-Docker-5A8CFF?logo=docker&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Heroku-5A8CFF?logo=heroku&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vercel-5A8CFF?logo=vercel&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-5A8CFF?logo=mysql&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>>&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-5A8CFF?logo=postgresql&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-5A8CFF?logo=mysql&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-5A8CFF?logo=postgresql&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>&nbsp;
   <img src="https://img.shields.io/badge/-SolidJS-5A8CFF?logo=solid&logoColor=white&logoWidth=30&logoWidth=100" style="height: 25px;"/>
 </p>  
 
